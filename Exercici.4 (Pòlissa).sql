@@ -1,0 +1,1 @@
+SELECT * FROM `Exercici.4`.Polissa_has_Venedor;
